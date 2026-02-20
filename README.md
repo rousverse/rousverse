@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Syaza here. I work with code🐾</h1>
+<h1 align="center">Hi, I'm Syaza 🐾</h1>
 
 ###
 
@@ -48,15 +48,15 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/syaza-rous-cania-5a42b4270?originalSubdomain=id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="56" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="39" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rousverse?igsh=OW84b3k2angwOHVj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="56" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="39" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emailkamu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="56" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="39" alt="gmail logo"  />
   </a>
 </div>
 

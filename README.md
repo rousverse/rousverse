@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Syaza here. I work with code🐾</h1>
+<h1 align="center">Information Systems Student</h1>
 
 ###
 

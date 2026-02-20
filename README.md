@@ -8,36 +8,55 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="59" alt="javascript logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="59" alt="css logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="59" alt="html5 logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="59" alt="laravel logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="59" alt="mysql logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="59" alt="vscode logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="59" alt="tailwindcss logo"  />
+<h3 align="center">Mahasiswa Sistem Informasi | Web Developer</h3>
+
+###
+
+<h4 align="left">About me 👋</h4>
+
+###
+
+<p align="left">Saya seorang mahasiswa Sistem Informasi yang memiliki ketertarikan dalam pengembangan sistem berbasis web.<br><br>Bagi saya, sistem yang baik bukan hanya berjalan dengan lancar, tetapi juga mampu memberikan kenyamanan dan kemudahan bagi penggunanya.</p>
+
+###
+
+<h4 align="left">My Tech Stack 🚀</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="right">Social Media🌐</h2>
+<h4 align="left">Connect with Me🌐</h4>
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://www.linkedin.com/in/syaza-rous-cania-5a42b4270?originalSubdomain=id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="56" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rousverse?igsh=OW84b3k2angwOHVj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="56" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emailkamu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="56" alt="gmail logo"  />
   </a>
 </div>
 

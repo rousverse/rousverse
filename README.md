@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Information Systems Student</h1>
+<h1 align="center">Syaza here. I work with code🐾</h1>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="59" alt="mysql logo"  />
   <img width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="59" alt="vscode logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="59" alt="tailwindcss logo"  />
 </div>
 
 ###
